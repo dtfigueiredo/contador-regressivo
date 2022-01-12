@@ -5,14 +5,6 @@ Website com objetivo de monitorar quantos dias/horas faltam até o ano novo 2021
 
 
 
-
-## Demo
-
-https://reveillon2021.netlify.app/
-
-
-
-
 ## Screenshots
 
 * Desktop
